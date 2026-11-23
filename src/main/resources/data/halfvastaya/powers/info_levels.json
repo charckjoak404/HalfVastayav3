@@ -1,0 +1,9 @@
+{
+    "type": "neoorigins:simple",
+    "name": {
+        "text": "Evolucion por heridas"
+    },
+    "description": {
+        "text": "Las heridas que te hacen las criaturas te hacen evolucionar: Nivel II (+2.5 ataque, +3 armadura) y Nivel III (+3.5 ataque, +4 armadura mas). Abre el panel con la tecla G para ver tu progreso."
+    }
+}

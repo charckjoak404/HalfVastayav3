@@ -1,0 +1,9 @@
+{
+    "type": "neoorigins:simple",
+    "name": {
+        "text": "Furia y Golpe Verdadero"
+    },
+    "description": {
+        "text": "Cada herida llena tu barra dorada de Furia. Con la barra llena pulsa R para lanzar un golpe en cono de 6 bloques que alcanza a todos y atraviesa la armadura."
+    }
+}

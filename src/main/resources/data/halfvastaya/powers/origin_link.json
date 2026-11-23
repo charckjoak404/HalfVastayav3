@@ -1,0 +1,15 @@
+{
+    "type": "neoorigins:condition_passive",
+    "interval": 40,
+    "entity_action": {
+        "type": "neoorigins:execute_command",
+        "command": "tag @s add halfvastaya_origin"
+    },
+    "name": {
+        "text": "Vinculo del Half-Vastaya"
+    },
+    "description": {
+        "text": "Conecta tu origen con el mod Half-Vastaya (niveles, Furia y golpe en cono)."
+    },
+    "hidden": true
+}
